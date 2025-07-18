@@ -1,6 +1,6 @@
 # Devouring Details 
 
-(Link)[https://devouringdetails.com/]
+[Open Course](https://devouringdetails.com/)
 
 ## Inferring intent
 
